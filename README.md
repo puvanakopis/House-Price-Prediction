@@ -113,3 +113,17 @@ pytest tests/
 
 ## 📜 License
 This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+
+**Name:** Puvanakopis  
+**GitHub:** [@puvanakopis](https://github.com/puvanakopis)  
+**LinkedIn:** [Puvanakopis](https://www.linkedin.com/in/puvanakopis/)  
+**Email:** puvanakopis@gmail.com
+
+---
+
+Happy Predicting & Smart House Hunting! 🏡✨
+
